@@ -1,0 +1,36 @@
+STUDENT GRADE CALCULATOR - TEST CASES
+
+-----------------------------------
+Test Case 1
+Input Marks: 30
+Expected Output: Grade F
+
+-----------------------------------
+Test Case 2
+Input Marks: 62
+Expected Output: Grade D
+
+-----------------------------------
+Test Case 3
+Input Marks: 99
+Expected Output: Grade A
+
+-----------------------------------
+Test Case 4
+Input Marks: 71
+Expected Output: Grade C
+
+-----------------------------------
+Test Case 5
+Input Marks: 102
+Expected Output: Marks must be between 0 and 100.
+
+-----------------------------------
+Test Case 6
+Input Marks: -
+Expected Output: Invalid input
+
+-----------------------------------
+Test Case 7
+Input Marks: -5
+Expected Output: Marks must be between 0 and 100.
